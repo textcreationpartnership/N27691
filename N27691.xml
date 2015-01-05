@@ -107,8 +107,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:036909_0000_100B54F1D086CA08"/>
-            <pb facs="tcp:036909_0001_100B54F4853D8998" rendition="simple:additions"/>
+            <pb facs="unknown:036909_0000_100B54F1D086CA08"/>
+            <pb facs="unknown:036909_0001_100B54F4853D8998"
+                rendition="simple:additions"/>
             <p>NEW SONGS, ON DIFFERENT SUBJECTS.</p>
             <p>
                <hi>COMPOSED BY</hi> ISSACHAR BATES.</p>
@@ -123,7 +124,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:036909_0002_100B54F60D73C578"/>
+            <pb facs="unknown:036909_0002_100B54F60D73C578"/>
             <head>SONGS, &amp;c.</head>
             <div n="1" type="song">
                <head>SONG I. THE AUTHOR's TRIALS.</head>
@@ -172,7 +173,7 @@
                      </gap>d a dreadful God,</l>
                   <l>My ſorrows then begun.</l>
                   <l>
-                     <pb n="4" facs="tcp:036909_0003_100B54F795E74CC0"/>
+                     <pb n="4" facs="unknown:036909_0003_100B54F795E74CC0"/>
 To Sinai's fiery mount I flew,</l>
                   <l>My horrid tale to tell,</l>
                   <l>But God in thunder there proclaim'd</l>
@@ -230,7 +231,7 @@ To Sinai's fiery mount I flew,</l>
                   <l>Thus I went mourning night and day,</l>
                   <l>To God I ſent my cry;</l>
                   <l>
-                     <pb n="5" facs="tcp:036909_0004_100B54FA72B4DD90"/>
+                     <pb n="5" facs="unknown:036909_0004_100B54FA72B4DD90"/>
 That he would let me know his will,</l>
                   <l>Wiſhing that I could die:</l>
                   <l>But all the anſwer <hi>I</hi> receiv'd,</l>
@@ -283,7 +284,7 @@ That he would let me know his will,</l>
                   <l>Where my poor ſoul muſt dwell.</l>
                </lg>
                <lg n="14">
-                  <pb n="6" facs="tcp:036909_0005_100B54FCAFE83C88"/>
+                  <pb n="6" facs="unknown:036909_0005_100B54FCAFE83C88"/>
                   <head>14</head>
                   <l>But here's the greateſt trial I find,</l>
                   <l>The worſt of all my fear,</l>
@@ -335,7 +336,7 @@ That he would let me know his will,</l>
                   <l>THOU great immortal ſovereign God,</l>
                   <l>Whoſe wakeful eyes no ſlumbers crave;</l>
                   <l>
-                     <pb n="7" facs="tcp:036909_0006_100B54FE375C12C8"/>
+                     <pb n="7" facs="unknown:036909_0006_100B54FE375C12C8"/>
 All nature's fix'd upon thy word,</l>
                   <l>No darkneſs thou canſt ever have.</l>
                </lg>
@@ -399,7 +400,7 @@ All nature's fix'd upon thy word,</l>
                   <l>And all thy wond'rous works proclaim.</l>
                </lg>
                <lg n="10">
-                  <pb n="8" facs="tcp:036909_0007_100B5500595E33A0"/>
+                  <pb n="8" facs="unknown:036909_0007_100B5500595E33A0"/>
                   <head>10</head>
                   <l>To my companion, Lord, be kind,</l>
                   <l>Grant her the ſmilings of thy face;</l>
@@ -460,7 +461,7 @@ All nature's fix'd upon thy word,</l>
                   <hi>This work is Gods, &amp;c.</hi>
                </p>
                <lg n="4">
-                  <pb n="9" facs="tcp:036909_0008_100B550317A901C0"/>
+                  <pb n="9" facs="unknown:036909_0008_100B550317A901C0"/>
                   <head>4</head>
                   <l>A beauteous plain on your weſt ſide,</l>
                   <l>Where gentle ſtreams perpetual glide;</l>
@@ -539,7 +540,7 @@ All nature's fix'd upon thy word,</l>
                   <l>Burden'd with ſummer heat they rove,</l>
                   <l>Down from the mountains to your cove;</l>
                   <l>
-                     <pb n="10" facs="tcp:036909_0009_100B550536532A60"/>
+                     <pb n="10" facs="unknown:036909_0009_100B550536532A60"/>
 You are their covert, when ſurp<gap reason="illegible" resp="#PDCC" extent="5 letters">
                         <desc>•••••</desc>
                      </gap>,</l>
@@ -611,7 +612,7 @@ You are their covert, when ſurp<gap reason="illegible" resp="#PDCC" extent="5 l
                   <l>Come gather, ve nations, your ſentence receive,</l>
                   <l>My ſpirit no longer ſhall ſtrive and be griev'd;</l>
                   <l>
-                     <pb n="11" facs="tcp:036909_0010_100B5506C36F3A08"/>
+                     <pb n="11" facs="unknown:036909_0010_100B5506C36F3A08"/>
 My judgments are ripe, the ſentence is juſt,</l>
                   <l>Come hither, ye bleſs'd, but depart all ye curs'd.</l>
                </lg>
@@ -683,7 +684,7 @@ My judgments are ripe, the ſentence is juſt,</l>
                   <l>Ye alſo ſhall live if ye only believe.</l>
                </lg>
                <lg n="6">
-                  <pb n="12" facs="tcp:036909_0011_100B550889030990"/>
+                  <pb n="12" facs="unknown:036909_0011_100B550889030990"/>
                   <head>6</head>
                   <l>O Lord, I believe, and my ſoul finds relief,</l>
                   <l>But dear Jeſus be kind, and help my unbelief;</l>
@@ -812,7 +813,7 @@ My judgments are ripe, the ſentence is juſt,</l>
                   <l>Until the ſetting of the ſun—</l>
                </lg>
                <lg n="7">
-                  <pb n="13" facs="tcp:036909_0012_100B550AB5276C00"/>
+                  <pb n="13" facs="unknown:036909_0012_100B550AB5276C00"/>
                   <head>7</head>
                   <l>Till Mr. <hi>Danly</hi> and his ſon,</l>
                   <l>Alarm'd, ſat out upon the run,</l>
@@ -881,7 +882,7 @@ My judgments are ripe, the ſentence is juſt,</l>
                   <l>Think on his virtue, weeping friends.</l>
                   <l>Mourn not from him, but for your ſins:</l>
                   <l>
-                     <pb n="14" facs="tcp:036909_0013_100B550D6F113990"/>
+                     <pb n="14" facs="unknown:036909_0013_100B550D6F113990"/>
 For ſin is the procuring cauſe,</l>
                   <l>That brings God's judgment unawares.</l>
                </lg>
@@ -958,7 +959,7 @@ For ſin is the procuring cauſe,</l>
                   <l>All carnal mirth you'll count a toy,</l>
                   <l>When once you taſte this heavenly joy;</l>
                   <l>
-                     <pb n="15" facs="tcp:036909_0014_100B550F9302CA70"/>
+                     <pb n="15" facs="unknown:036909_0014_100B550F9302CA70"/>
 No ſolid joys are known below,</l>
                   <l>But what the New-Lights feel and know.</l>
                </lg>
@@ -1031,7 +1032,7 @@ No ſolid joys are known below,</l>
                   <l>Both fathers and mothers lament their ſaid lot.</l>
                   <l>And mourn for their children becauſe they are not;</l>
                   <l>
-                     <pb n="16" facs="tcp:036909_0015_100B5511B15D8320"/>
+                     <pb n="16" facs="unknown:036909_0015_100B5511B15D8320"/>
 What ſore deſolation this neighborhood ſees,</l>
                   <l>O who can endure ſuch chaſtiſements as theſe.</l>
                </lg>
